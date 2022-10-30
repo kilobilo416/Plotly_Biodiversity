@@ -1,6 +1,14 @@
 # Plotly_Biodiversity
 
+## Objective 
+
+Create an interactive dashboard exploring the Belly Button Biodiversity which catalogs the microbes that colonize in human navels.
+
+## Website
+
 https://kilobilo416.github.io/Plotly_Biodiversity/
+
+## Results
 
 ### What the User Sees Upon Initial Site Load
 

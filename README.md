@@ -6,7 +6,7 @@ Create an interactive dashboard exploring the Belly Button Biodiversity which ca
 
 ## Website
 
-https://kilobilo416.github.io/Plotly_Biodiversity/
+[Bellybutton Website](https://kilobilo416.github.io/Plotly_Biodiversity/)
 
 ## Results
 
